@@ -1,0 +1,3 @@
+Breakpoint 1 at 0x2ec: file source/main.c, line 117.
+Note: automatically using hardware breakpoints for read-only addresses.
+Undefined command: "male".  Try "help".
